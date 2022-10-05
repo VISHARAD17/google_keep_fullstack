@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://www.transparenttextures.com/patterns/black-paper.png");
+}
+
+.App {
+    /* display: flex; */
+    /* flex-direction: col; */
+    margin-left: 10px;
+} 
