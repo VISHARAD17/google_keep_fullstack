@@ -15,6 +15,7 @@ Link to front-end and backend part of the projects
 - [Backend repo](https://github.com/VISHARAD17/google-keep-backend)
 
 Before running this project make sure you have node or yarn installed.
+Do not download frontend and backend code from this repository it is just for display purpose.
 
 To run the project locally
 
